@@ -1,0 +1,16 @@
+# requirements.txt
+pandas
+geopandas
+shapely
+fiona
+pyproj
+rtree
+matplotlib
+plotly
+streamlit
+folium
+streamlit-folium
+requests
+tqdm
+h3
+plotly
